@@ -1,0 +1,3 @@
+Hello World, what a simple line, and yet,
+ most programmers started their carrers with it,
+ building upon a foundation started by "Hello World"
